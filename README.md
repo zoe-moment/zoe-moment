@@ -1,4 +1,9 @@
-# I’m Zoe. Known on GitHub as @zydridas.
+### I’m Zoe
+#### Welcome to my GitHub landing page
+---
+I was previously known on GitHub as *zydridas* however I've made the decision to change my name to *Zoe-Moment*. There is a fun backstory to that name and it's much easier for others to type and/or say. My new goal is to get my account up to date with my new username by July of 2022.
+
+
 I’m interested in coding, process improvement and kitchen knife sharpening. Tell me about your kitchen knives. 
 
 
