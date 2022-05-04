@@ -1,4 +1,5 @@
 ### I’m Zoe and welcome to my GitHub landing page
+#### Talk to me about your HTML sematics and accessibility!
 ---
 I was previously known on GitHub as *zydridas* however I've made the decision to change my name to *Zoe-Moment*. I am still in the thick of updating my profile so I apologize in advance if there are any broken links due to the username change. I’m interested in coding, process improvement and kitchen knife sharpening. It's a weird mix but it's the mix that brings me joy. Computers, organizing/optimization and tools. That is Zoe in a nutshell. 
 
