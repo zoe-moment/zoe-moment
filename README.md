@@ -11,6 +11,6 @@ If you are also moving forward on your own self-led coding journey lets chat and
 
 Check out some of my projects!
 
-< https://zoe-moment.github.io/profile/>
+[My Profile]<https://zoe-moment.github.io/zoe-moment/>
 
-< https://zoe-moment.github.io/bcp/>
+[Brooklyn co-op Preschool]< https://zoe-moment.github.io/bcp/>
