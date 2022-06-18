@@ -1,8 +1,7 @@
-### I’m Zoe and welcome to my GitHub landing page
-
-#### Talk to me about your HTML sematics and accessibility!
+### I’m Zoe and welcome to my GitHub landing page!
 
 ---
+
 At work I find myself drawn to process improvement, streamlining work flows and accesibility. 
 
 At home I'm interested classic sci-fi and kitchen knife sharpening. It's a weird mix but it's the mix that brings me joy. 
@@ -18,3 +17,5 @@ Check out some of my projects!
 [My Profile](https://zoe-moment.github.io/portfolio/)
 
 [Brooklyn co-op Preschool](https://zoe-moment.github.io/bcp/)
+
+[Resources] (https://zoe-moment.github.io/template/)
