@@ -18,4 +18,4 @@ Check out some of my projects!
 
 [Brooklyn co-op Preschool](https://zoe-moment.github.io/bcp/)
 
-[Resources] (https://zoe-moment.github.io/template/)
+[Resources](https://zoe-moment.github.io/template/)
